@@ -1,0 +1,4 @@
+git clone https://github.com/NCCoder3/Shadow-Tabbed/
+cd Shadow-Tabbed
+npm install
+npm start
